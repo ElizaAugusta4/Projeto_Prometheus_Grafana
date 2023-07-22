@@ -12,7 +12,7 @@ npm install express
 
 * Faça o download do Prometheus no site oficial: https://prometheus.io/download/
 
-*Extraia o arquivo baixado e navegue até o diretório resultante.
+* Extraia o arquivo baixado e navegue até o diretório resultante.
 
 * Dentro do diretório, você encontrará o arquivo de configuração prometheus.yml, que você precisará editar conforme deixei no arquivo commitado.
 
