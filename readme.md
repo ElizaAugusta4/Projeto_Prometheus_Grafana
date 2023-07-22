@@ -31,4 +31,4 @@ Escolha o tipo "Prometheus" e configure o URL para apontar para o servidor onde 
 Por fim, Salve e teste a conexão para garantir que o Grafana pode acessar o Prometheus.
 
 
-****OBS: a aplicação web e o prometheus deverão estar rodar rodando de forma separadas no terminal*******
+****OBS: a aplicação web e o prometheus deverão estar rodando de forma separadas no terminal*******
