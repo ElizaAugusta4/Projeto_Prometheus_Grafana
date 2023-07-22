@@ -7,6 +7,7 @@ node app.js #iniciar a aplicação web na porta 8080
 **Comandos para criação da aplicação web será necessário:**
 
 npm init -y
+
 npm install express
 
 **Passos para instalaçaõ do Grafana e Prometheus:**
