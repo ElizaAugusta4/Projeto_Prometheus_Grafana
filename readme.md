@@ -19,7 +19,6 @@ npm install express
 * Dentro do diretório, você encontrará o arquivo de configuração prometheus.yml, que você precisará editar conforme deixei no arquivo commitado;
 
 * Faça o download do Grafana em https://grafana.com/get e escolha a versão adequada ao seu sistema operacional;
- sistema;
 
 * Acesse o Grafana através do navegador usando o endereço http://localhost:3000;
 
