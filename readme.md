@@ -1,6 +1,7 @@
 **Comandos para execução do projeto:**
 
 ./prometheus --config.file=prometheus.yml #iniciar o prometheus 
+
 node app.js #iniciar a aplicação web na porta 8080
 
 **Comandos para criação da aplicação web será necessário:**
